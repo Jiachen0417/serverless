@@ -113,10 +113,10 @@ $ sls --debug
   DEBUG ─ Creating the template's components graph.
   DEBUG ─ Syncing template state.
   DEBUG ─ Executing the template's components graph.
-  DEBUG ─ Compressing function laravel-function file to /Users/jiachendu/Downloads/Courses/tencent/serverless-laravel/.serverless/laravel-function.zip.
+  DEBUG ─ Compressing function laravel-function file to /Users/Downloads/serverless-laravel/.serverless/laravel-function.zip.
   DEBUG ─ Compressed function laravel-function file successful
   DEBUG ─ Uploading service package to cos[sls-cloudfunction-ap-guangzhou-code]. sls-cloudfunction-default-laravel-function-1581888194.zip
-  DEBUG ─ Uploaded package successful /Users/jiachendu/Downloads/Courses/tencent/serverless-laravel/.serverless/laravel-function.zip
+  DEBUG ─ Uploaded package successful /Users/Downloads/serverless-laravel/.serverless/laravel-function.zip
   DEBUG ─ Creating function laravel-function
   DEBUG ─ Created function laravel-function successful
   DEBUG ─ Setting tags for function laravel-function
